@@ -11,6 +11,8 @@
 # Kai Yuan 
 # kent.yuan at gmail dot com
 # 2011-11-01
+# here I made some changes too (test1)
+#
 ########################################
 
 if [ $# != 2 ]; then
