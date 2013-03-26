@@ -11,6 +11,7 @@
 # Kai Yuan 
 # kent.yuan at gmail dot com
 # 2011-11-01
+# this is changed by test2
 ########################################
 
 if [ $# != 2 ]; then
