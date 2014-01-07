@@ -14,7 +14,7 @@
 # this is changed by test2
 #
 ########################################
-#now I change it from LSYhp
+#now I change it from LSYhp, again
 if [ $# != 2 ]; then
 	cat <<EOF
 	script to generate md format README for Bitbucket or Github.
