@@ -8,7 +8,7 @@
 # Kai Yuan 
 # kent.yuan at gmail dot com 
 #######################################################################
-inputF=
+inputF=#this line is changed by lsy
 SCALE=800:600
 if [ $# == 0 ]; then 
     

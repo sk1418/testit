@@ -25,7 +25,7 @@ mq = ('6','35','18')
 hq = ('37','32')
 #--------------------------------------
 quality ={
-            
+#this line was changed by lsy            
     '34' :  ('flv', '320x240', 'Stereo 44KHz MP3'),
     '0'  :  ('flv', '320x240', 'Mono 22KHz MP3'),
     '5'  :  ('flv', '320x240', 'Mono 44KHz MP3'),
