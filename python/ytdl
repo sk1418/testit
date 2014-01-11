@@ -22,10 +22,11 @@ import urllib2, re ,os, sys
 # supported. Then they will make sense. 
 lq = ('34','0','5','13','17')
 mq = ('6','35','18')
+#oh added text again
 hq = ('37','32')
 #--------------------------------------
 quality ={
-            
+#add something else            
     '34' :  ('flv', '320x240', 'Stereo 44KHz MP3'),
     '0'  :  ('flv', '320x240', 'Mono 22KHz MP3'),
     '5'  :  ('flv', '320x240', 'Mono 44KHz MP3'),
