@@ -8,7 +8,7 @@
 # Kai Yuan 
 # kent.yuan at gmail dot com 
 #######################################################################
-inputF= oh modified by SK
+inputF= #oh modified by SK(merged changes from lsy)
 SCALE=1200:700
 if [ $# == 0 ]; then 
     
