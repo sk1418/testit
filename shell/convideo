@@ -8,8 +8,8 @@
 # Kai Yuan 
 # kent.yuan at gmail dot com 
 #######################################################################
-inputF=
-SCALE=800:600
+inputF= #oh modified by SK(merged changes from lsy)
+SCALE=1200:700
 if [ $# == 0 ]; then 
     
     echo -e "\

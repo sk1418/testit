@@ -15,7 +15,7 @@
 # - batch downloading
 #
 ###################################################
-
+#new line from SK Desktop
 import urllib2, re ,os, sys
 
 # lq,mq,hq are at this moment not used. In later version (if there was), batch downloading would be 
@@ -26,7 +26,7 @@ mq = ('6','35','18')
 hq = ('37','32')
 #--------------------------------------
 quality ={
-#add something else            
+#ok, merged again!!add something else            
     '34' :  ('flv', '320x240', 'Stereo 44KHz MP3'),
     '0'  :  ('flv', '320x240', 'Mono 22KHz MP3'),
     '5'  :  ('flv', '320x240', 'Mono 44KHz MP3'),
